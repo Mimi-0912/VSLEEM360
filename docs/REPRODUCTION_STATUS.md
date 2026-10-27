@@ -19,6 +19,8 @@ Dataset access will be provided through Google Drive. Preserve the frozen VPR
 JPEG bytes and evaluation splits. Do not regenerate a different set of images
 from reencoded videos and claim to reproduce the same inputs.
 
-The dataset license is CC BY-NC 4.0. A separate reuse license for original
-project code has not been selected. Third-party implementations and weights
+The dataset license is CC BY-NC 4.0. Original project scripts use PolyForm
+Noncommercial License 1.0.0, as selected to implement the authors'
+noncommercial requirement. See `LICENSE_SCOPE.md` for the separation from
+dataset and third-party material. Third-party implementations and weights
 retain their own conditions and are not redistributed in this snapshot.

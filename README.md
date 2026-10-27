@@ -118,9 +118,12 @@ exhaustive human inspection of every frame is made. See the data card.
 
 ## Licenses and Citation
 
-The selected **dataset** license is CC BY-NC 4.0. See
-`release_manifest/LICENSE.txt`. This does not automatically license the code,
-third-party software, or pretrained weights; see `LICENSE.md`.
+The **dataset** license is CC BY-NC 4.0; see `release_manifest/LICENSE.txt`.
+Original project scripts use **PolyForm Noncommercial License 1.0.0**;
+see `LICENSE.md` and `LICENSE_SCOPE.md`. Commercial use is not granted.
+Third-party software and pretrained weights retain their original conditions.
+This noncommercial source-available snapshot is not an unrestricted
+open-source release.
 
 Please cite the paper title and authors above. The proceedings DOI is not yet
 available, and no DOI has been invented. Machine-readable metadata is provided
