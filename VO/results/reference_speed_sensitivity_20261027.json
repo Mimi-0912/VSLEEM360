@@ -1,0 +1,624 @@
+{
+  "schema": 1,
+  "speed_threshold_mps": 20,
+  "diagnostic_only": true,
+  "screened_sequence_count": 20,
+  "diagnostics": [
+    {
+      "scene": "XJ26D24122931YDJ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4458166784360427
+    },
+    {
+      "scene": "XJ26D24182933QJQ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.8213509602064333
+    },
+    {
+      "scene": "XJ26D24183950HPU",
+      "intervals_over_threshold": 4,
+      "max_speed_mps": 39573.16329865198
+    },
+    {
+      "scene": "XJ26D25112653WSD",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 13.309777077055971
+    },
+    {
+      "scene": "XJ26D25131012KYY",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.424077258716284
+    },
+    {
+      "scene": "XJ26D25151041VCU",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.2756317327699318
+    },
+    {
+      "scene": "XJ26D25152938ZPW",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.9895860852299998
+    },
+    {
+      "scene": "XJ26D26142920QVJ",
+      "intervals_over_threshold": 37,
+      "max_speed_mps": 256.5118031672069
+    },
+    {
+      "scene": "XJ26D26143415SLK",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 2.3842850308284147
+    },
+    {
+      "scene": "XJ26D26150825MAH",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4364434292752677
+    },
+    {
+      "scene": "XJ26D26165249TJT",
+      "intervals_over_threshold": 32,
+      "max_speed_mps": 31.9076573641979
+    },
+    {
+      "scene": "XJ26D26170402PKM",
+      "intervals_over_threshold": 14,
+      "max_speed_mps": 98.79465740383863
+    },
+    {
+      "scene": "XJ26D26171455VZF",
+      "intervals_over_threshold": 53,
+      "max_speed_mps": 43.515239735503336
+    },
+    {
+      "scene": "XJ26D27092232ULT",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 10.861589143381428
+    },
+    {
+      "scene": "XJ26D27094822UDL",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.9926441054026016
+    },
+    {
+      "scene": "XJ26D27113518KHY",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 12.66615080623436
+    },
+    {
+      "scene": "XJ26D27172149AXZ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 4.016038664235671
+    },
+    {
+      "scene": "XJ26D27214733XSK",
+      "intervals_over_threshold": 84,
+      "max_speed_mps": 116.46776067239121
+    },
+    {
+      "scene": "XJ26D30134136LHE",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4539497787813926
+    },
+    {
+      "scene": "XJ26D30182554UWM",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 2.023128327855333
+    },
+    {
+      "scene": "XJ26D30203938FMM",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.0176157388480884
+    },
+    {
+      "scene": "XJ26E02145314RTA",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4895844517257888
+    },
+    {
+      "scene": "XJ26E02151448UCY",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4401748411260507
+    },
+    {
+      "scene": "XJ26E03100657UFC",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.2543492093741175
+    },
+    {
+      "scene": "XJ26E03141345KJW",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 2.965114385861001
+    },
+    {
+      "scene": "XJ26E03142501DZR",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.7927404202100576
+    },
+    {
+      "scene": "XJ26E03145054UPU",
+      "intervals_over_threshold": 3,
+      "max_speed_mps": 33.8065435651227
+    },
+    {
+      "scene": "XJ26E03152352PQR",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 6.909641236921081
+    },
+    {
+      "scene": "XJ26E03154122EUP",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.8242497317437472
+    },
+    {
+      "scene": "XJ26E03160844JKK",
+      "intervals_over_threshold": 2,
+      "max_speed_mps": 20.772527436030153
+    },
+    {
+      "scene": "XJ26E04112209SXW",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.8179270243428889
+    },
+    {
+      "scene": "XJ26E04173241TJD",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.6556615701798691
+    },
+    {
+      "scene": "XJ26E04174516QZF",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.5076394160447861
+    },
+    {
+      "scene": "XJ26E04182628HHL",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 2.5111309822779067
+    },
+    {
+      "scene": "XJ26E05105838CAE",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.6819803284259636
+    },
+    {
+      "scene": "XJ26E05165007QED",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.6594071204151488
+    },
+    {
+      "scene": "XJ26E05181724QRC",
+      "intervals_over_threshold": 3,
+      "max_speed_mps": 67.07689071401103
+    },
+    {
+      "scene": "XJ26E07113834NMF",
+      "intervals_over_threshold": 84,
+      "max_speed_mps": 71.72721366849568
+    },
+    {
+      "scene": "XJ26E07121554SMT",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.3152357676122468
+    },
+    {
+      "scene": "XJ26E07123711TMU",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.2728228741109815
+    },
+    {
+      "scene": "XJ26E07183249RXV",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.371868813662874
+    },
+    {
+      "scene": "XJ26E07185439SKR",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 8.731165268932132
+    },
+    {
+      "scene": "XJ26E07192320QKN",
+      "intervals_over_threshold": 115,
+      "max_speed_mps": 312.7365983313612
+    },
+    {
+      "scene": "XJ26E07193541KYK",
+      "intervals_over_threshold": 70,
+      "max_speed_mps": 543.275055498453
+    },
+    {
+      "scene": "XJ26E08075146YYV",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.631127314881267
+    },
+    {
+      "scene": "XJ26E08083410ZER",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.2370062517326847
+    },
+    {
+      "scene": "XJ26E08085604PDS",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 0.7990279873929772
+    },
+    {
+      "scene": "XJ26E08193630CYZ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 12.734255671929766
+    },
+    {
+      "scene": "XJ26E08214522WPJ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 8.167504789020665
+    },
+    {
+      "scene": "XJ26E09180328NFW",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.3150230170447232
+    },
+    {
+      "scene": "XJ26E09182238RVF",
+      "intervals_over_threshold": 41,
+      "max_speed_mps": 77.09786134153464
+    },
+    {
+      "scene": "XJ26E09183515YMC",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4209081545250628
+    },
+    {
+      "scene": "XJ26E10194348DAD",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 7.899129233561742
+    },
+    {
+      "scene": "XJ26E12192656AYE",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 7.641622155648168
+    },
+    {
+      "scene": "XJ26E13125301RKA",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 3.4359647770012947
+    },
+    {
+      "scene": "XJ26E13182343QXE",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.6223889011513748
+    },
+    {
+      "scene": "XJ26E14113628VUU",
+      "intervals_over_threshold": 182,
+      "max_speed_mps": 457.8878555243579
+    },
+    {
+      "scene": "XJ26E15091112SJC",
+      "intervals_over_threshold": 237,
+      "max_speed_mps": 1212.7996500970196
+    },
+    {
+      "scene": "XJ26E15183856CZR",
+      "intervals_over_threshold": 341,
+      "max_speed_mps": 922.6305320368909
+    },
+    {
+      "scene": "XJ26E16105408HTL",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.9541937353729653
+    },
+    {
+      "scene": "XJ26E16192255TSN",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 7.208161782170595
+    },
+    {
+      "scene": "XJ26E17160420VAM",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.8026120017812362
+    },
+    {
+      "scene": "XJ26E18182621UVL",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.5276824228945056
+    },
+    {
+      "scene": "XJ26E20182240PRX",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.6568142386335762
+    },
+    {
+      "scene": "XJ26E21193144TXR",
+      "intervals_over_threshold": 162,
+      "max_speed_mps": 1263.035585426266
+    },
+    {
+      "scene": "XJ26E22095202QWN",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4286026017395252
+    },
+    {
+      "scene": "XJ26E22181504UAJ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.438643447763888
+    },
+    {
+      "scene": "XJ26E23164622LSE",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 4.327920247672205
+    },
+    {
+      "scene": "XJ26E26180521PDX",
+      "intervals_over_threshold": 1,
+      "max_speed_mps": 71.60215409754704
+    },
+    {
+      "scene": "XJ26E27215056MTL",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 2.9328834572955382
+    },
+    {
+      "scene": "XJ26E28104600QXN",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.549034124392898
+    },
+    {
+      "scene": "XJ26E28120554WDZ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.517846091321328
+    },
+    {
+      "scene": "XJ26E28171253PAL",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 7.777905239299425
+    },
+    {
+      "scene": "XJ26E28195626HJS",
+      "intervals_over_threshold": 19,
+      "max_speed_mps": 79.17499998358038
+    },
+    {
+      "scene": "XJ26E29163144UYP",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.0999419044438765
+    },
+    {
+      "scene": "XJ26E29170421USD",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.2354754775887544
+    },
+    {
+      "scene": "XJ26E30090922RMT",
+      "intervals_over_threshold": 2,
+      "max_speed_mps": 21.45797273066486
+    },
+    {
+      "scene": "XJ26E30120508QET",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 16.95194999687058
+    },
+    {
+      "scene": "XJ26E30164232XRH",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 0.9363149393147406
+    },
+    {
+      "scene": "XJ26E31171248HAF",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.1680514967905877
+    },
+    {
+      "scene": "XJ26E31173438ASZ",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 4.30734230211916
+    },
+    {
+      "scene": "XJ26E31183832ENS",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.60889689343631
+    },
+    {
+      "scene": "XJ26E31190956PJT",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 0.2812027525557656
+    },
+    {
+      "scene": "XJ26E31195528QZV",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 8.175528484262857
+    },
+    {
+      "scene": "XJ26F03170855HSH",
+      "intervals_over_threshold": 0,
+      "max_speed_mps": 1.4749754770757606
+    }
+  ],
+  "subsets": {
+    "common": {
+      "n": 84,
+      "scene_ids": [
+        "XJ26D24122931YDJ",
+        "XJ26D24182933QJQ",
+        "XJ26D24183950HPU",
+        "XJ26D25112653WSD",
+        "XJ26D25131012KYY",
+        "XJ26D25151041VCU",
+        "XJ26D25152938ZPW",
+        "XJ26D26143415SLK",
+        "XJ26D26150825MAH",
+        "XJ26D26165249TJT",
+        "XJ26D26170402PKM",
+        "XJ26D26171455VZF",
+        "XJ26D27092232ULT",
+        "XJ26D27094822UDL",
+        "XJ26D27113518KHY",
+        "XJ26D27172149AXZ",
+        "XJ26D27214733XSK",
+        "XJ26D30134136LHE",
+        "XJ26D30182554UWM",
+        "XJ26D30203938FMM",
+        "XJ26E02145314RTA",
+        "XJ26E02151448UCY",
+        "XJ26E03100657UFC",
+        "XJ26E03141345KJW",
+        "XJ26E03142501DZR",
+        "XJ26E03145054UPU",
+        "XJ26E03152352PQR",
+        "XJ26E03154122EUP",
+        "XJ26E03160844JKK",
+        "XJ26E04112209SXW",
+        "XJ26E04173241TJD",
+        "XJ26E04174516QZF",
+        "XJ26E04182628HHL",
+        "XJ26E05105838CAE",
+        "XJ26E05165007QED",
+        "XJ26E05181724QRC",
+        "XJ26E07113834NMF",
+        "XJ26E07121554SMT",
+        "XJ26E07123711TMU",
+        "XJ26E07183249RXV",
+        "XJ26E07185439SKR",
+        "XJ26E07192320QKN",
+        "XJ26E07193541KYK",
+        "XJ26E08075146YYV",
+        "XJ26E08083410ZER",
+        "XJ26E08085604PDS",
+        "XJ26E08193630CYZ",
+        "XJ26E08214522WPJ",
+        "XJ26E09180328NFW",
+        "XJ26E09182238RVF",
+        "XJ26E09183515YMC",
+        "XJ26E10194348DAD",
+        "XJ26E12192656AYE",
+        "XJ26E13125301RKA",
+        "XJ26E13182343QXE",
+        "XJ26E14113628VUU",
+        "XJ26E15091112SJC",
+        "XJ26E15183856CZR",
+        "XJ26E16105408HTL",
+        "XJ26E16192255TSN",
+        "XJ26E17160420VAM",
+        "XJ26E18182621UVL",
+        "XJ26E20182240PRX",
+        "XJ26E21193144TXR",
+        "XJ26E22095202QWN",
+        "XJ26E22181504UAJ",
+        "XJ26E23164622LSE",
+        "XJ26E26180521PDX",
+        "XJ26E27215056MTL",
+        "XJ26E28104600QXN",
+        "XJ26E28120554WDZ",
+        "XJ26E28171253PAL",
+        "XJ26E28195626HJS",
+        "XJ26E29163144UYP",
+        "XJ26E29170421USD",
+        "XJ26E30090922RMT",
+        "XJ26E30120508QET",
+        "XJ26E30164232XRH",
+        "XJ26E31171248HAF",
+        "XJ26E31173438ASZ",
+        "XJ26E31183832ENS",
+        "XJ26E31190956PJT",
+        "XJ26E31195528QZV",
+        "XJ26F03170855HSH"
+      ],
+      "methods": {
+        "orbslam3": {
+          "ate_rmse_m": 6.488859,
+          "rpe_pos_time1s_m": 0.29625250000000003
+        },
+        "droid": {
+          "ate_rmse_m": 33.103913,
+          "rpe_pos_time1s_m": 0.9159444999999999
+        },
+        "360dvo": {
+          "ate_rmse_m": 12.742407,
+          "rpe_pos_time1s_m": 0.32858600000000004
+        }
+      },
+      "360dvo_vs_droid_ate_reduction_percent": 61.50785256111566
+    },
+    "without_speed_flags": {
+      "n": 65,
+      "scene_ids": [
+        "XJ26D24122931YDJ",
+        "XJ26D24182933QJQ",
+        "XJ26D25112653WSD",
+        "XJ26D25131012KYY",
+        "XJ26D25151041VCU",
+        "XJ26D25152938ZPW",
+        "XJ26D26143415SLK",
+        "XJ26D26150825MAH",
+        "XJ26D27092232ULT",
+        "XJ26D27094822UDL",
+        "XJ26D27113518KHY",
+        "XJ26D27172149AXZ",
+        "XJ26D30134136LHE",
+        "XJ26D30182554UWM",
+        "XJ26D30203938FMM",
+        "XJ26E02145314RTA",
+        "XJ26E02151448UCY",
+        "XJ26E03100657UFC",
+        "XJ26E03141345KJW",
+        "XJ26E03142501DZR",
+        "XJ26E03152352PQR",
+        "XJ26E03154122EUP",
+        "XJ26E04112209SXW",
+        "XJ26E04173241TJD",
+        "XJ26E04174516QZF",
+        "XJ26E04182628HHL",
+        "XJ26E05105838CAE",
+        "XJ26E05165007QED",
+        "XJ26E07121554SMT",
+        "XJ26E07123711TMU",
+        "XJ26E07183249RXV",
+        "XJ26E07185439SKR",
+        "XJ26E08075146YYV",
+        "XJ26E08083410ZER",
+        "XJ26E08085604PDS",
+        "XJ26E08193630CYZ",
+        "XJ26E08214522WPJ",
+        "XJ26E09180328NFW",
+        "XJ26E09183515YMC",
+        "XJ26E10194348DAD",
+        "XJ26E12192656AYE",
+        "XJ26E13125301RKA",
+        "XJ26E13182343QXE",
+        "XJ26E16105408HTL",
+        "XJ26E16192255TSN",
+        "XJ26E17160420VAM",
+        "XJ26E18182621UVL",
+        "XJ26E20182240PRX",
+        "XJ26E22095202QWN",
+        "XJ26E22181504UAJ",
+        "XJ26E23164622LSE",
+        "XJ26E27215056MTL",
+        "XJ26E28104600QXN",
+        "XJ26E28120554WDZ",
+        "XJ26E28171253PAL",
+        "XJ26E29163144UYP",
+        "XJ26E29170421USD",
+        "XJ26E30120508QET",
+        "XJ26E30164232XRH",
+        "XJ26E31171248HAF",
+        "XJ26E31173438ASZ",
+        "XJ26E31183832ENS",
+        "XJ26E31190956PJT",
+        "XJ26E31195528QZV",
+        "XJ26F03170855HSH"
+      ],
+      "methods": {
+        "orbslam3": {
+          "ate_rmse_m": 4.319095,
+          "rpe_pos_time1s_m": 0.237588
+        },
+        "droid": {
+          "ate_rmse_m": 13.682926,
+          "rpe_pos_time1s_m": 0.572189
+        },
+        "360dvo": {
+          "ate_rmse_m": 8.428637,
+          "rpe_pos_time1s_m": 0.273929
+        }
+      },
+      "360dvo_vs_droid_ate_reduction_percent": 38.40033191731067
+    }
+  }
+}

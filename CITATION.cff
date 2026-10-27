@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the VSLEEM360 dataset paper. Proceedings DOI pending."
+title: "A Large-Scale 360\u00B0 Panoramic Video Dataset for Near-Ground Mobile Perception"
+type: dataset
+authors:
+  - family-names: Wang
+    given-names: Ziyanran
+  - family-names: Li
+    given-names: Donghui
+  - family-names: Li
+    given-names: Xiaoying
+  - family-names: Li
+    given-names: Hui
+  - family-names: Luo
+    given-names: Hengyang
+  - family-names: Zheng
+    given-names: Hang
+  - family-names: Cheng
+    given-names: Fei

@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "checkpoints": [
+    {
+      "checkpoint": "ResNet50_2048_eigenplaces.pth",
+      "bytes": 111138056,
+      "sha256": "98e8e21e9364a7e0990a9d7e1de5853b6d830f7f73d6bd9ee4f397575e0d41d1"
+    },
+    {
+      "checkpoint": "mixvpr_4096_official.ckpt",
+      "bytes": 43747109,
+      "sha256": "97528606773e9920e93ca4d211daeabf1c7312480f38b45379ee5551a1b4dd24"
+    },
+    {
+      "checkpoint": "ResNet18_512_cosplace.pth",
+      "bytes": 45832971,
+      "sha256": "db09310a175e325fe25e7a460b41886ab9357b19c41d370a9ed3ed81bc9abf9f"
+    },
+    {
+      "checkpoint": "VGG16-NetVLAD-Pitts30K.mat",
+      "bytes": 554551295,
+      "sha256": "a67d9d897d3b7942f206478e3a22a4c4c9653172ae2447041d35f6cb278fdc67"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "path": "VPR/code/vpr_17_extract_official.py",
+    "source_path_relative_to_project": "VPR/code/vpr_17_extract_official.py",
+    "bytes": 9733,
+    "sha256": "ef23c0a4de4c483b88c47a85ce670cd96346167d38507d4f8798f7e62625a65e",
+    "unchanged_copy": true
+  },
+  {
+    "path": "VPR/code/vpr_19_evaluate_camera_ready.py",
+    "source_path_relative_to_project": "VPR/code/vpr_19_evaluate_camera_ready.py",
+    "bytes": 5243,
+    "sha256": "c97cf54d90bfd5f3a8853d10d9cd698ea56b2333128472a2aead257674327b75",
+    "unchanged_copy": true
+  },
+  {
+    "path": "VPR/code/vpr_geo_protocol.py",
+    "source_path_relative_to_project": "VPR/code/vpr_geo_protocol.py",
+    "bytes": 772,
+    "sha256": "da1baa34169b736743512ea4918f7aaf9368786cce173a84b4692226645e86c8",
+    "unchanged_copy": true
+  },
+  {
+    "path": "VPR/results/camera_ready_20261026.json",
+    "source_path_relative_to_project": "VPR/results/camera_ready_20261026.json",
+    "bytes": 15855,
+    "sha256": "6318f28d19bbfdb0503ba1eff86bb62327c85e4b9e790192c9f86eacd817766b",
+    "unchanged_copy": true
+  },
+  {
+    "path": "VO/code/vo_04_recompute_positional.py",
+    "source_path_relative_to_project": "VO/code/vo_04_recompute_positional.py",
+    "bytes": 8761,
+    "sha256": "50a178ce3fc6e10c4f403cb1c8a903340670398d9c03ff2a0e4302ce38dc8c20",
+    "unchanged_copy": true
+  },
+  {
+    "path": "VO/code/vo_08_reference_sensitivity.py",
+    "source_path_relative_to_project": "VO/code/vo_08_reference_sensitivity.py",
+    "bytes": 2176,
+    "sha256": "f3e25e71bf6920e69d65349ec50d1f628a5f18acfa4f3e8c5f6253aac3d79059",
+    "unchanged_copy": true
+  },
+  {
+    "path": "VO/results/vo_metrics_positional.csv",
+    "source_path_relative_to_project": "VO/results/vo_metrics_positional.csv",
+    "bytes": 29470,
+    "sha256": "9725d744c14b54769c9390c10808e2097631ba6a2843151afca90f7d6f57b7f0",
+    "unchanged_copy": true
+  },
+  {
+    "path": "VO/results/reference_speed_sensitivity_20261027.json",
+    "source_path_relative_to_project": "VO/results/reference_speed_sensitivity_20261027.json",
+    "bytes": 16084,
+    "sha256": "d85ded092ed2cafb7e0a0c8ff39d1888774287be3812ee3a3c4f8e0b575366f7",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/analyze_videosr_multi.py",
+    "source_path_relative_to_project": "SR/tools/analyze_videosr_multi.py",
+    "bytes": 8964,
+    "sha256": "d5c42b074504949fd1b13b256f5f74a4e519cba6bbdc6ce0e3a6d5cbfe3c36e2",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/check_videosr_clips_alignment.py",
+    "source_path_relative_to_project": "SR/tools/check_videosr_clips_alignment.py",
+    "bytes": 4251,
+    "sha256": "ed4edc0035dd4fb196021bbee525a3cf56a6b2c90716790ef9527ceee7c704d0",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/check_alignment.py",
+    "source_path_relative_to_project": "SR/tools/check_alignment.py",
+    "bytes": 5568,
+    "sha256": "4714702bc8c8ae27b73efbdf5200c01a1ea611eca700f10e25608c8167aeae87",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/metrics.py",
+    "source_path_relative_to_project": "SR/tools/metrics.py",
+    "bytes": 7827,
+    "sha256": "f4e039eccf853409ead630d581b979bf8295b092ef4452565dfd110d2899b3b8",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/runs/videosr_3t_basicvsrpp/per_frame.csv",
+    "source_path_relative_to_project": "SR/runs/videosr_3t_basicvsrpp/per_frame.csv",
+    "bytes": 34789,
+    "sha256": "30af068f83bba335d9bc71c1162b3c6184781c19d10ee243667b7072642e103c",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/runs/videosr_3t_realbasicvsr/per_frame.csv",
+    "source_path_relative_to_project": "SR/runs/videosr_3t_realbasicvsr/per_frame.csv",
+    "bytes": 34797,
+    "sha256": "b45c458c2094ac63cc0b4fc2c4972841e0542bf1806789251ced85b6cb2dc0a9",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/runs/videosr_3t_summary.json",
+    "source_path_relative_to_project": "SR/runs/videosr_3t_summary.json",
+    "bytes": 46100,
+    "sha256": "e6fd5b4343237f9631232c893297f844e7e30681c9e207bd84b7f6e502ba0fba",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/dataset_manifest.csv",
+    "source_path_relative_to_project": "release_manifest/dataset_manifest.csv",
+    "bytes": 109687,
+    "sha256": "4a25eeb66a41c3ce2f512b5f6d5278586984c2e79e31701eefd30b0647cc3f90",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/file_manifest.json",
+    "source_path_relative_to_project": "release_manifest/file_manifest.json",
+    "bytes": 703800,
+    "sha256": "0d1d8cadebc17304b2071f267918aedc0dbd97d8c0d949a0fb30328f53c3fde7",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/sequence_attributes.csv",
+    "source_path_relative_to_project": "release_manifest/sequence_attributes.csv",
+    "bytes": 29103,
+    "sha256": "cca34c6936ad19ea20275264746fda4b4a5598c5f2f228dc7c737822c266658f",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/DATA_CARD.md",
+    "source_path_relative_to_project": "release_manifest/DATA_CARD.md",
+    "bytes": 2424,
+    "sha256": "9ddbd27ddc993c54c2aefb18e969a726883720d006ceef369d98a73dc021429b",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/LICENSE.txt",
+    "source_path_relative_to_project": "release_manifest/LICENSE.txt",
+    "bytes": 939,
+    "sha256": "56a84a39d519a4b86690a7aa67cb8de8bc9a2da56e07661efd700eb80c652ed5",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/splits/train_scenes.txt",
+    "source_path_relative_to_project": "release_manifest/splits/train_scenes.txt",
+    "bytes": 4284,
+    "sha256": "86306f7ed11a4b485cf055c822f0d4e76ce7e1ed0b4bf2e9425235bb874ac4c9",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/splits/val_scenes.txt",
+    "source_path_relative_to_project": "release_manifest/splits/val_scenes.txt",
+    "bytes": 1428,
+    "sha256": "5f7d6e9f349be5a4292e0f11abcc396968437564cff6685dddcd3acce6e246cd",
+    "unchanged_copy": true
+  },
+  {
+    "path": "release_manifest/splits/test_scenes.txt",
+    "source_path_relative_to_project": "release_manifest/splits/test_scenes.txt",
+    "bytes": 1445,
+    "sha256": "4b635f78c4f36ed1bb63cb580daaefdf3834e70216ae1556f07e4a5eb54849c8",
+    "unchanged_copy": true
+  }
+]

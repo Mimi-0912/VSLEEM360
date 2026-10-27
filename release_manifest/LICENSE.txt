@@ -1,0 +1,16 @@
+VSLEEM360 -- selected license for the planned dataset release
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+This selected license covers the planned dataset (video, sensor telemetry,
+sequence attributes, frozen splits and derived benchmark image inputs).
+Credit the authors and the paper:
+A Large-Scale 360° Panoramic Video Dataset for Near-Ground Mobile Perception
+Ziyanran Wang, Donghui Li, Xiaoying Li, Hui Li, Hengyang Luo, Hang Zheng, Fei Cheng.
+MMM 2027, accepted full paper 472. Publication DOI is not assigned here.
+
+Public hosting, release version/date and author rights confirmation must be
+finalized before publishing this staging package. This file does not license
+third-party software or pretrained model weights. The Springer publication
+agreement for the paper is separate.

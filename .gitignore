@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+analysis/
+*.mp4
+*.jpg
+*.png
+*.pth
+*.ckpt
+*.npy
+*.npz
+vpr_frames/
+VPR/features/
+VPR/third_party/
+SR/runs/videosr_clips*/
+.env
+.env.*
