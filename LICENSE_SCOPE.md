@@ -10,8 +10,8 @@ data indexes, uses **CC BY-NC 4.0**; see `release_manifest/LICENSE.txt`.
 
 Third-party implementations, pretrained weights and other third-party
 materials retain their original licenses and are not relicensed by this
-repository. They are not included in this preparation snapshot.
+repository. Third-party model implementations and weights are not bundled.
 
 This is a noncommercial source-available release, not an unrestricted
-open-source license. The repository currently remains private while the
-installation and inference documentation is being completed.
+open-source license. Dataset availability and the verified reproduction scope
+are stated separately in the README and reproduction guide.

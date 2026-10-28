@@ -9,19 +9,19 @@ Hang Zheng, and Fei Cheng. Contact: Fei.Cheng@xjtlu.edu.cn.
 
 ## Release Status
 
-This is a **private preparation snapshot**, prepared on 2026-10-27, in
-https://github.com/Mimi-0912/VSLEEM360. It is not yet a
-public dataset release or a complete installation of every baseline. The current
-package contains original evaluation and diagnostic scripts, frozen splits,
-reference result files, and public data indexes. Raw videos, frozen VPR images,
-large feature caches, model weights, and third-party implementations are separate.
+Code and protocols: https://github.com/Mimi-0912/VSLEEM360.
+This release contains original evaluation and diagnostic scripts, frozen splits,
+reference results, data indexes, and the VSR inference path. Raw videos, frozen
+VPR images, feature caches, pretrained weights, and third-party implementations
+are distributed or obtained separately.
 
-Dataset hosting is confirmed as **Google Drive**; the shared download URL,
-available capacity, release version, and publication date remain to be finalized.
-No placeholder URL is presented as a working download.
+**Dataset download is not available yet.** Upload to the authors' Google Drive
+is in progress; a public download link and data version will be added after
+cloud verification. No private folder link is presented as a working download.
 
-See `docs/REPRODUCTION_STATUS.md` for the distinction between verified offline
-statistics and the model installation/inference steps still being prepared.
+See [Reproduction Guide](docs/REPRODUCING.md) for dependencies, weights, paths,
+and commands, and [Reproduction Status](docs/REPRODUCTION_STATUS.md) for the
+scope actually checked. This is not a complete installation of every baseline.
 
 The data includes 421 sequences (approximately 78.3 hours), HD 5760x2880 and
 Preview 1920x960 ERP streams, GPS/IMU records, and sequence attributes. The
@@ -38,6 +38,9 @@ frozen sequence split has 252 training, 84 validation, and 85 test sequences.
 | `VO/results/` | Saved per-sequence metrics and sensitivity results |
 | `SR/tools/` | Per-sequence statistical analysis and image alignment diagnostics |
 | `SR/runs/` | Per-clip results for two models, sequence summaries, and segment identity join |
+| `SR/manifests/clips_manifest.jsonl` | All 255 frozen clip indices, with dataset-relative video paths |
+| `SR/environment.yml` | Pinned VSR environment used by the benchmark |
+| `SR/weights/checkpoint_manifest.json` | Official VSR checkpoint sizes and SHA-256 values; no weights |
 | `release_manifest/` | Sequence indexes, file hashes, attributes, split lists, and data card |
 | `SOURCE_PROVENANCE.json` | Hashes of original project files copied without modification |
 
@@ -77,10 +80,11 @@ python VPR/code/vpr_19_evaluate_camera_ready.py --root . --cpu --out analysis/vp
 The extraction wrapper requires PyTorch, torchvision, Pillow, tqdm, the named
 checkpoints, and official model files under `VPR/third_party/`. The third-party
 files are deliberately not bundled without their upstream license notices.
-The separate model environments, all preprocessing/inference wrappers, and 3D
-reconstruction workflow still need packaging before claiming full reproduction
-from videos in a clean environment. The supplied scripts are not a complete
-one-command reproduction package.
+The VSR environment, frozen-frame decoder, inference commands, and exact weight
+identities are described in the reproduction guide. Third-party VO inference,
+CosPlace/NetVLAD feature generation, and 3D reconstruction still require their
+upstream workflows. The supplied scripts are not a complete one-command
+reproduction package for all experiments.
 
 Official model sources:
 

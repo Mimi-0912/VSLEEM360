@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "checkpoints": [
+    {
+      "checkpoint": "basicvsrpp_x4_reds4.pth",
+      "bytes": 29349005,
+      "sha256": "db622b2fd4caae0a4c63ab5e54f1cfef7a62a0f3b8ad101aba2eae068d928549"
+    },
+    {
+      "checkpoint": "realbasicvsr_x4_reds.pth",
+      "bytes": 148239017,
+      "sha256": "52f77c2c835aaa3fe675b3959b2f85010a6c6f63f77f7e279394646e55a4e376"
+    }
+  ]
+}

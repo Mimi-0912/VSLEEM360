@@ -84,6 +84,62 @@
     "unchanged_copy": true
   },
   {
+    "path": "SR/tools/build_videosr_clips.py",
+    "source_path_relative_to_project": "SR/tools/build_videosr_clips.py",
+    "bytes": 6971,
+    "sha256": "0dab7243368c40ae3932ec07f51f539c896390f5bf10382a06457856b116317b",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/materialize_frozen_videosr_clips.py",
+    "source_path_relative_to_project": "SR/tools/materialize_frozen_videosr_clips.py",
+    "bytes": 3692,
+    "sha256": "174673f5bd5022b8769a63aaee77859f2d8f7186ce8308a8d29733caed51d0bc",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/eval_videosr.py",
+    "source_path_relative_to_project": "SR/tools/eval_videosr.py",
+    "bytes": 7939,
+    "sha256": "887acf144d9dca494fc26d94067a01bb547092364a6e8aa44621cff777da1955",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/eval_zeroshot.py",
+    "source_path_relative_to_project": "SR/tools/eval_zeroshot.py",
+    "bytes": 8766,
+    "sha256": "1f68f33aeee88f45b2602d1b89a258346e4131d6b485d73a93af4f85355ecd57",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/zeroshot_infer.py",
+    "source_path_relative_to_project": "SR/tools/zeroshot_infer.py",
+    "bytes": 8515,
+    "sha256": "5dafe2f5fb963c112f024b597e1f98b739f37abf9cba36543c5feeb33d79e50c",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tools/tiled_infer.py",
+    "source_path_relative_to_project": "SR/tools/tiled_infer.py",
+    "bytes": 5232,
+    "sha256": "26e7a81a1ff7d59bc8c29ca573f42dc848aa0e4fc7fcad9eee0e14535269420d",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/environment.yml",
+    "source_path_relative_to_project": "SR/environment.yml",
+    "bytes": 1095,
+    "sha256": "b56a4a89707f8c522d8778842ad4527df2832f2723319af119e303a42b36a962",
+    "unchanged_copy": true
+  },
+  {
+    "path": "SR/tests/test_tiled_infer.py",
+    "source_path_relative_to_project": "SR/tests/test_tiled_infer.py",
+    "bytes": 2308,
+    "sha256": "2379912a2efefe74034e1896c5c102feb4be4b07b55a9bb8f806670c32e40949",
+    "unchanged_copy": true
+  },
+  {
     "path": "SR/runs/videosr_3t_basicvsrpp/per_frame.csv",
     "source_path_relative_to_project": "SR/runs/videosr_3t_basicvsrpp/per_frame.csv",
     "bytes": 34789,
