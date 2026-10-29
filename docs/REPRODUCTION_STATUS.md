@@ -1,8 +1,9 @@
 # Reproduction Status
 
-Updated on 2026-10-28. This release contains the evaluation and diagnostic
+Updated on 2026-10-29. This release contains the evaluation and diagnostic
 files listed in the main README. Videos, images, and checkpoints are separate;
-the dataset upload is still in progress. See `REPRODUCING.md` for exact commands.
+dataset v1.0 is distributed through the Google Drive link below.
+See `REPRODUCING.md` for exact commands.
 
 | Part | Included and checked | Additional requirements |
 |---|---|---|
@@ -18,7 +19,9 @@ The VSR decoder must use the saved indices; it does not repeat the cancelled
 boundary investigation or alter any scored input. Diagnostics describe image
 matching, not an independent physical synchronization calibration.
 
-Dataset access will be provided through Google Drive. Preserve the frozen VPR
+Dataset v1.0 (29 October 2026):
+https://drive.google.com/drive/folders/1YpiFDGTrzWICMcrFoox61fHxbW8m3Rr5
+(read-only). Preserve the frozen VPR
 JPEG bytes and evaluation splits. Do not regenerate a different set of images
 from reencoded videos and claim to reproduce the same inputs.
 

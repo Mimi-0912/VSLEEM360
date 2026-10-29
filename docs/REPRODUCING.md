@@ -2,8 +2,9 @@
 
 Run commands from the repository root. Python 3.10 is used for VSR. Results
 under `analysis/` are local outputs and do not replace the frozen reference
-results. Data upload is in progress; commands requiring the full dataset are
-provided for use after the verified download is available.
+results. Dataset v1.0 (29 October 2026) is distributed through this
+[read-only Google Drive folder](https://drive.google.com/drive/folders/1YpiFDGTrzWICMcrFoox61fHxbW8m3Rr5)
+under CC BY-NC 4.0. Preserve the frozen JPEG bytes and split lists.
 
 ## Saved-result analysis
 
@@ -234,5 +235,5 @@ median-ATE gap from 61.5% to 38.4%; it does not certify reference accuracy.
 Full ORB-SLAM3, DROID-SLAM, 360DVO and 3DGS installations/runners are not
 included. Use their official repositories and the configurations in the paper.
 No fresh-environment all-model rerun is claimed. The supplied frozen results
-are separated from newly generated outputs, and the data download remains
-unavailable until cloud verification finishes. See `REPRODUCTION_STATUS.md`.
+are separated from newly generated outputs. Availability of the dataset does
+not establish fresh-environment model reproducibility. See `REPRODUCTION_STATUS.md`.

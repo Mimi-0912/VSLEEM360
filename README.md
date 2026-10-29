@@ -15,9 +15,10 @@ reference results, data indexes, and the VSR inference path. Raw videos, frozen
 VPR images, feature caches, pretrained weights, and third-party implementations
 are distributed or obtained separately.
 
-**Dataset download is not available yet.** Upload to the authors' Google Drive
-is in progress; a public download link and data version will be added after
-cloud verification. No private folder link is presented as a working download.
+**Dataset v1.0 (29 October 2026):**
+[Google Drive download](https://drive.google.com/drive/folders/1YpiFDGTrzWICMcrFoox61fHxbW8m3Rr5)
+(read-only; CC BY-NC 4.0). Videos, sensor files, frozen VPR JPEGs and indexes
+are distributed together. Preserve the supplied file bytes and split lists.
 
 See [Reproduction Guide](docs/REPRODUCING.md) for dependencies, weights, paths,
 and commands, and [Reproduction Status](docs/REPRODUCTION_STATUS.md) for the

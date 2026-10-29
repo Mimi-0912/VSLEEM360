@@ -1,8 +1,8 @@
-# VSLEEM360 staging data card
+# VSLEEM360 data card
 
-- Status: local staging; no public URL/version/date is asserted.
-- Planned coverage: all 421 sequences, approximately78.3h, dual ERP video and sensor logs.
-- Selected data license: CC BY-NC4.0; see LICENSE.txt. Code/third-party weights are separate.
+- Release: v1.0, 29 October 2026. Read-only Google Drive: https://drive.google.com/drive/folders/1YpiFDGTrzWICMcrFoox61fHxbW8m3Rr5
+- Coverage: all 421 sequences, approximately78.3h, dual ERP video and sensor logs.
+- Data license: CC BY-NC4.0; see LICENSE.txt. Code/third-party weights are separate.
 - Video input: one explicitly selected HD/Preview pair per sequence. The six repaired videos for LDH/XYR/VMY are selected from release_redacted_20261027; original process/process2 alternatives remain internal archives.
 - Privacy: automated processing is imperfect; 60 historical audit frames included four failures. The four JPEGs were reprocessed and user-reviewed. Six full-video copies were reprocessed with localized redaction; 50 known/nearby/uniform frames were sampled and all frame presentation timestamps/frame counts preserved. No full-corpus per-frame human review or privacy certification is claimed.
 - Annotations: 421 author-provided attribute rows, without an independent second annotator or published agreement statistic.

@@ -171,7 +171,7 @@
     "path": "release_manifest/file_manifest.json",
     "source_path_relative_to_project": "release_manifest/file_manifest.json",
     "bytes": 703800,
-    "sha256": "f43680386d0d52bfbdc42b6af7d8a14eb7544090710b5cc00c5ea6038ddce179",
+    "sha256": "f7e2940887fa03cbd78c2a3fa2068f4cced8b8ce763decbda45b47a5767fcd04",
     "unchanged_copy": true
   },
   {
@@ -184,15 +184,15 @@
   {
     "path": "release_manifest/DATA_CARD.md",
     "source_path_relative_to_project": "release_manifest/DATA_CARD.md",
-    "bytes": 3496,
-    "sha256": "b15b9aa00368082d20a0047e20a5862e3b069368cb4643e89191798259103e74",
+    "bytes": 3537,
+    "sha256": "d071413207a7dbb213ed65dc2c9500dc4f84ff9bbacc156987f9d704575ffd7a",
     "unchanged_copy": true
   },
   {
     "path": "release_manifest/LICENSE.txt",
     "source_path_relative_to_project": "release_manifest/LICENSE.txt",
-    "bytes": 939,
-    "sha256": "56a84a39d519a4b86690a7aa67cb8de8bc9a2da56e07661efd700eb80c652ed5",
+    "bytes": 887,
+    "sha256": "83399056a77c70b5d34f583e0601969d632b4e40c4ff4ac8410ef9295de97f5f",
     "unchanged_copy": true
   },
   {
