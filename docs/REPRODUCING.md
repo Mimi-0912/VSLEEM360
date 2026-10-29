@@ -43,6 +43,11 @@ ln -s "$VSLEEM_DATA_ROOT/vpr_frames" vpr_frames
 The dataset manifest records all 421 sequences, split as 252/84/85. The
 diagnostic 65-sequence GPS subset does not replace this split.
 
+The attributes distinguish `hd_video_frames`, `preview_video_frames`, and
+`trajectory_points`. The legacy `num_frames` column aliases `trajectory_points`,
+not HD video frames. Raw GPS logs are nonempty in 409 sequences; both IMU logs
+exist in 420 sequences. `XJ26E13091126DSC` lacks accelerometer/gyroscope logs.
+
 ## VSR environment and official weights
 
 `SR/environment.yml` pins Python 3.10, PyTorch 2.1.2, torchvision 0.16.2,

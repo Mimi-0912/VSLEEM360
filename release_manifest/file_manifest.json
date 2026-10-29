@@ -20199,8 +20199,8 @@
     },
     {
       "path": "sequence_attributes.csv",
-      "bytes": 29103,
-      "sha256": "cca34c6936ad19ea20275264746fda4b4a5598c5f2f228dc7c737822c266658f",
+      "bytes": 35049,
+      "sha256": "876fac36891226bf6acf3bdeafa63bf9a7a0e4ec79357d92e4bad302f0ec5f8c",
       "available": true
     },
     {
@@ -20229,8 +20229,8 @@
     },
     {
       "path": "DATA_CARD.md",
-      "bytes": 2424,
-      "sha256": "9ddbd27ddc993c54c2aefb18e969a726883720d006ceef369d98a73dc021429b",
+      "bytes": 3496,
+      "sha256": "b15b9aa00368082d20a0047e20a5862e3b069368cb4643e89191798259103e74",
       "available": true
     }
   ],
